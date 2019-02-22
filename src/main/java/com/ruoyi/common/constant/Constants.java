@@ -1,7 +1,7 @@
 package com.ruoyi.common.constant;
 
 /**
- * 通用常量信息
+ * 通用常量信息 6666
  * 
  * @author ruoyi
  */
